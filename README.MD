@@ -6,4 +6,4 @@
   - HTTP
 
 ## Descrição 
-API simples que acessa teams e drivers.
+API simples para acessar teams e drivers da formula 1.
